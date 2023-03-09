@@ -1,4 +1,5 @@
 # SmartPick
+![image](https://user-images.githubusercontent.com/104616632/224110705-57b5ec78-806d-43fc-b4d6-d989b164c8a0.png)
 Smartpick is a book recommender system that uses genetic algorithm to suggest personalized book recommendations to its users. The system takes into account the user's reading history, preferences, and other relevant factors to generate a list of books that the user is likely to enjoy.  
   
 This project leverages the power of machine learning and data analysis to make book recommendations more accurate and relevant than ever before. By using genetic algorithms, the system is able to learn from user feedback and continuously improve its recommendations over time.  
