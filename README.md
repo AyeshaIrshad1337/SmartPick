@@ -11,4 +11,5 @@ Whether you're an avid reader or just getting started, Smartpick can help you di
 
 Dataset being used for this project are:   
 Book.csv ,Rating.csv ,and User.csv
-You can access the dataset : [Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
+You can access the dataset : [Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)  
+SmartPick by using collaboravtive learning  
